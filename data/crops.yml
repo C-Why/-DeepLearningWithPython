@@ -1,0 +1,27 @@
+- name: normal_walker
+  base_image: data/images/base/twd_page_fighting_start.png
+  loc: [1095, 250, 1190, 290]
+
+- name: armored_walker
+  base_image: data/images/base/twd_page_fighting_start.png
+  loc: [1676, 518, 1776, 560]
+
+- name: tank_walker
+  base_image:
+  loc: []
+
+- name: fast_walker
+  base_image:
+  loc: []
+
+- name: goo_walker
+  base_image:
+  loc: []
+
+- name: burning_walker
+  base_image:
+  loc: []
+
+- name: burning_walker
+  base_image:
+  loc: []
